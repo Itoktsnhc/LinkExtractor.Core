@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LinkExtractor.Core", "LinkExtractor.Core\LinkExtractor.Core.fsproj", "{4AEDB3AE-1A90-4CF8-AB20-EAADE1F44CB2}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "LinkExtractor", "LinkExtractor\LinkExtractor.fsproj", "{5BFE5A90-7D96-4D35-94E8-74D427B85414}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AEDB3AE-1A90-4CF8-AB20-EAADE1F44CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEDB3AE-1A90-4CF8-AB20-EAADE1F44CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEDB3AE-1A90-4CF8-AB20-EAADE1F44CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEDB3AE-1A90-4CF8-AB20-EAADE1F44CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BFE5A90-7D96-4D35-94E8-74D427B85414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BFE5A90-7D96-4D35-94E8-74D427B85414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BFE5A90-7D96-4D35-94E8-74D427B85414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BFE5A90-7D96-4D35-94E8-74D427B85414}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
