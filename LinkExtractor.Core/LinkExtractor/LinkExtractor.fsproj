@@ -7,7 +7,9 @@
 
     <ItemGroup>
         <Compile Include="Program.fs" />
-        <Content Include="source.html" />
+        <Content Include="source.html">
+          <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+        </Content>
     </ItemGroup>
 
     <ItemGroup>
